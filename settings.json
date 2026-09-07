@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "example.aternos.me",
-    "port": 92591,
+    "ip": "kwd0.aternos.me",
+    "port": 52672,
     "version": "1.21.1"
   },
   "position": {
@@ -18,7 +18,7 @@
   },
   "utils": {
     "auto-auth": {
-      "enabled": true,
+      "enabled": false,
       "password": "Perzuu"
     },
     "anti-afk": {
